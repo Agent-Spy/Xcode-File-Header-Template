@@ -1,4 +1,4 @@
-# File-Header-Template
+# File Header Template
 
 This repository contains a file header template for Xcode projects under the Agent Spy organization. This template helps maintain consistent file headers across all projects and improve code documentation.
 
@@ -22,7 +22,7 @@ cp Sources/IDETemplateMacros.plist <ProjectName>.xcodeproj/xcshareddata/IDETempl
 cp Sources/IDETemplateMacros.plist <WorkspaceName>.xcworkspace/xcshareddata/IDETemplateMacros.plist
 ```
 
-#### Note
+> **Note:**
 You may need to create the `xcshareddata` folder if it doesn't exist. You can do this through Finder by right-clicking on the `.xcodeproj` or `.xcworkspace` file and selecting "Show Package Contents", or via command line.
 
 ## Usage
