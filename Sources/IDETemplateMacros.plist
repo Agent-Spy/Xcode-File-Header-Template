@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>FILEHEADER</key>
+<string>===----------------------------------------------------------------------===//
+//
+// ___FILENAME___
+// ___PACKAGENAME___
+//
+// Swift ___DEFAULTTOOLCHAINSWIFTVERSION___
+// macOS ___RUNNINGMACOSVERSION___
+//
+// This source file is part of the ___WORKSPACENAME___ open source project
+//
+// Copyright (c) ___YEAR___ Agent Spy and the ___WORKSPACENAME___ project authors
+// Licensed under Apache License v2.0
+//
+// See LICENSE.md for license information
+// See CONTRIBUTORS.md for the list of ___WORKSPACENAME___ project authors
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+//===----------------------------------------------------------------------===//
+</string>
+</dict>
+</plist>
